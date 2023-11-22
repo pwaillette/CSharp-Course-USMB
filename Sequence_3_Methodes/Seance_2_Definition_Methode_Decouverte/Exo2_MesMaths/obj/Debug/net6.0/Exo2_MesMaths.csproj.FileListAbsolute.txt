@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\bin\Debug\net6.0\Exo2_MesMaths.exe
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\bin\Debug\net6.0\Exo2_MesMaths.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\bin\Debug\net6.0\Exo2_MesMaths.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\bin\Debug\net6.0\Exo2_MesMaths.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\bin\Debug\net6.0\Exo2_MesMaths.pdb
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\refint\Exo2_MesMaths.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.pdb
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\Exo2_MesMaths.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo2_MesMaths\obj\Debug\net6.0\ref\Exo2_MesMaths.dll

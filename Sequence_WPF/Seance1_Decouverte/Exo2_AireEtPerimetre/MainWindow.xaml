@@ -1,0 +1,91 @@
+﻿<Window
+    x:Class="Exo2_AireEtPerimetre.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Exo2_AireEtPerimetre"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Calculateur d'Aire et de Surface"
+    Width="420"
+    Height="400"
+    ResizeMode="NoResize"
+    mc:Ignorable="d">
+    <Grid>
+        <Label
+            Margin="20,50,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Longueur"
+            FontWeight="Bold" />
+        <Label
+            Margin="160,50,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Largeur"
+            FontWeight="Bold" />
+        <TextBox
+            x:Name="Longueur"
+            Width="120"
+            Margin="20,80,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text=""
+            TextWrapping="Wrap" />
+        <TextBox
+            x:Name="Largeur"
+            Width="120"
+            Margin="160,80,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Text=""
+            TextWrapping="Wrap" />
+        <Label
+            x:Name="Perimeter"
+            Margin="20,200,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Périmètre :"
+            FontWeight="Bold" />
+        <Label
+            x:Name="Aire"
+            Margin="20,230,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Aire :"
+            FontWeight="Bold" />
+        <Button
+            x:Name="Calc"
+            Width="80"
+            Margin="140,130,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="Calc_Click"
+            Content="Calculer"
+            FontWeight="Bold" />
+        <Button
+            x:Name="ResetBtn"
+            Width="80"
+            Margin="140,160,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="ResetBtn_Click"
+            Content="Réinitialiser"
+            FontWeight="Bold" />
+        <ComboBox
+            x:Name="Box"
+            Width="80"
+            Height="17.96"
+            Margin="300,80,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontSize="11"
+            Initialized="Box_Initialized" />
+        <Label
+            Margin="300,50,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Content="Unité"
+            FontWeight="Bold" />
+
+    </Grid>
+</Window>

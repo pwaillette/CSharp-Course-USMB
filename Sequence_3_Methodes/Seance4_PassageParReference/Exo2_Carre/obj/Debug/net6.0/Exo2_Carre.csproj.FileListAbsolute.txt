@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\bin\Debug\net6.0\Exo2_Carre.exe
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\bin\Debug\net6.0\Exo2_Carre.deps.json
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\bin\Debug\net6.0\Exo2_Carre.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\bin\Debug\net6.0\Exo2_Carre.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\bin\Debug\net6.0\Exo2_Carre.pdb
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\refint\Exo2_Carre.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.pdb
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\Exo2_Carre.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo2_Carre\obj\Debug\net6.0\ref\Exo2_Carre.dll

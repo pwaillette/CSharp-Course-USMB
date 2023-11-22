@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\bin\Debug\net6.0\Exo3_JeuDeDevinette.exe
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\bin\Debug\net6.0\Exo3_JeuDeDevinette.deps.json
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\bin\Debug\net6.0\Exo3_JeuDeDevinette.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\bin\Debug\net6.0\Exo3_JeuDeDevinette.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\bin\Debug\net6.0\Exo3_JeuDeDevinette.pdb
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\refint\Exo3_JeuDeDevinette.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.pdb
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\Exo3_JeuDeDevinette.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo3_JeuDeDevinette\obj\Debug\net6.0\ref\Exo3_JeuDeDevinette.dll

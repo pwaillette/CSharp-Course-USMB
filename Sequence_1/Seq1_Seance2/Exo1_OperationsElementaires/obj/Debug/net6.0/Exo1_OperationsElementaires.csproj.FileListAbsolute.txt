@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\bin\Debug\net6.0\Exo1_OperationsElementaires.exe
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\bin\Debug\net6.0\Exo1_OperationsElementaires.deps.json
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\bin\Debug\net6.0\Exo1_OperationsElementaires.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\bin\Debug\net6.0\Exo1_OperationsElementaires.dll
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\bin\Debug\net6.0\Exo1_OperationsElementaires.pdb
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.dll
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\refint\Exo1_OperationsElementaires.dll
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.pdb
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\Exo1_OperationsElementaires.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo1_OperationsElementaires\obj\Debug\net6.0\ref\Exo1_OperationsElementaires.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo1_JeuDeDeplacements", "Exo1_JeuDeDeplacements\Exo1_JeuDeDeplacements.csproj", "{0F36D2B2-1457-4973-B49E-F36C4FEA52A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo2_JeuDeTir", "Exo2_JeuDeTir\Exo2_JeuDeTir.csproj", "{E978D109-413A-4B74-885F-8F66EC2115E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F36D2B2-1457-4973-B49E-F36C4FEA52A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F36D2B2-1457-4973-B49E-F36C4FEA52A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F36D2B2-1457-4973-B49E-F36C4FEA52A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F36D2B2-1457-4973-B49E-F36C4FEA52A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E978D109-413A-4B74-885F-8F66EC2115E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E978D109-413A-4B74-885F-8F66EC2115E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E978D109-413A-4B74-885F-8F66EC2115E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E978D109-413A-4B74-885F-8F66EC2115E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C810288C-005D-48E3-8DAF-A17E11766C29}
+	EndGlobalSection
+EndGlobal

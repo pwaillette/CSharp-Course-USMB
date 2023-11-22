@@ -1,0 +1,12 @@
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\bin\Debug\net6.0\VerifSaisies.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\bin\Debug\net6.0\VerifSaisies.dll
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\bin\Debug\net6.0\VerifSaisies.pdb
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.dll
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\refint\VerifSaisies.dll
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\VerifSaisies.pdb
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\VerifSaisies\VerifSaisies\obj\Debug\net6.0\ref\VerifSaisies.dll

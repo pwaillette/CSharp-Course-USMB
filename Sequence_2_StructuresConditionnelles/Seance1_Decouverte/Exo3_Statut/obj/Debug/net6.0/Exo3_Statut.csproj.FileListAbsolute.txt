@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\bin\Debug\net6.0\Exo3_Statut.exe
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\bin\Debug\net6.0\Exo3_Statut.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\bin\Debug\net6.0\Exo3_Statut.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\bin\Debug\net6.0\Exo3_Statut.dll
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\bin\Debug\net6.0\Exo3_Statut.pdb
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.dll
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\refint\Exo3_Statut.dll
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.pdb
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\Exo3_Statut.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo3_Statut\obj\Debug\net6.0\ref\Exo3_Statut.dll

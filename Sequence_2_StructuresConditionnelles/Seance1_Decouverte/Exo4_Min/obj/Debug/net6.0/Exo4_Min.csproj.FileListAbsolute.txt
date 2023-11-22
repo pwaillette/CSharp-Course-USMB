@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\bin\Debug\net6.0\Exo4_Min.exe
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\bin\Debug\net6.0\Exo4_Min.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\bin\Debug\net6.0\Exo4_Min.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\bin\Debug\net6.0\Exo4_Min.dll
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\bin\Debug\net6.0\Exo4_Min.pdb
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.dll
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\refint\Exo4_Min.dll
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.pdb
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\Exo4_Min.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_2_StructuresConditionnelles\Seance1_Decouverte\Exo4_Min\obj\Debug\net6.0\ref\Exo4_Min.dll

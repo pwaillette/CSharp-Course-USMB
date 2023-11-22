@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\bin\Debug\net6.0\Exo1_RepeterBonjour.exe
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\bin\Debug\net6.0\Exo1_RepeterBonjour.deps.json
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\bin\Debug\net6.0\Exo1_RepeterBonjour.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\bin\Debug\net6.0\Exo1_RepeterBonjour.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\bin\Debug\net6.0\Exo1_RepeterBonjour.pdb
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\refint\Exo1_RepeterBonjour.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.pdb
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\Exo1_RepeterBonjour.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo1_RepeterBonjour\obj\Debug\net6.0\ref\Exo1_RepeterBonjour.dll

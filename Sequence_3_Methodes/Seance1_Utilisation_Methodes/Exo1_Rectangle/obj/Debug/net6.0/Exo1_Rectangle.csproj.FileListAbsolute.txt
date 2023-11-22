@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\bin\Debug\net6.0\Exo1_Rectangle.exe
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\bin\Debug\net6.0\Exo1_Rectangle.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\bin\Debug\net6.0\Exo1_Rectangle.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\bin\Debug\net6.0\Exo1_Rectangle.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\bin\Debug\net6.0\Exo1_Rectangle.pdb
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\refint\Exo1_Rectangle.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.pdb
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\Exo1_Rectangle.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance1_Utilisation_Methodes\Exo1_Rectangle\obj\Debug\net6.0\ref\Exo1_Rectangle.dll

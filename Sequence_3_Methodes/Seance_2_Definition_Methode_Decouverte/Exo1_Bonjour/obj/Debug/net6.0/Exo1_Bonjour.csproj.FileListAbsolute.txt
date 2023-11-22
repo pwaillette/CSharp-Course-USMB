@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\bin\Debug\net6.0\Exo1_Bonjour.exe
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\bin\Debug\net6.0\Exo1_Bonjour.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\bin\Debug\net6.0\Exo1_Bonjour.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\bin\Debug\net6.0\Exo1_Bonjour.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\bin\Debug\net6.0\Exo1_Bonjour.pdb
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\refint\Exo1_Bonjour.dll
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.pdb
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\Exo1_Bonjour.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_3_Methodes\Seance_2_Definition_Methode_Decouverte\Exo1_Bonjour\obj\Debug\net6.0\ref\Exo1_Bonjour.dll

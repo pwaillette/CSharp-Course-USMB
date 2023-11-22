@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\bin\Debug\net6.0\Exo2_Factorielle.exe
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\bin\Debug\net6.0\Exo2_Factorielle.deps.json
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\bin\Debug\net6.0\Exo2_Factorielle.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\bin\Debug\net6.0\Exo2_Factorielle.dll
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\bin\Debug\net6.0\Exo2_Factorielle.pdb
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.dll
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\refint\Exo2_Factorielle.dll
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.pdb
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\Exo2_Factorielle.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance4_GestionsErreursMainEtMethodes\Exo2_Factorielle\obj\Debug\net6.0\ref\Exo2_Factorielle.dll

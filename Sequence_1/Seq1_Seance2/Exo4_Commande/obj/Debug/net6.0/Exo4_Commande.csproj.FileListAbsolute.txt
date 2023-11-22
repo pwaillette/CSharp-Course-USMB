@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\bin\Debug\net6.0\Exo4_Commande.exe
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\bin\Debug\net6.0\Exo4_Commande.deps.json
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\bin\Debug\net6.0\Exo4_Commande.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\bin\Debug\net6.0\Exo4_Commande.dll
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\bin\Debug\net6.0\Exo4_Commande.pdb
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.dll
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\refint\Exo4_Commande.dll
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.pdb
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\Exo4_Commande.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Seq1_Seance2\Exo4_Commande\obj\Debug\net6.0\ref\Exo4_Commande.dll

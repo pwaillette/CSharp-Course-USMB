@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\bin\Debug\net6.0\Exo3_ConversionHeureMin.exe
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\bin\Debug\net6.0\Exo3_ConversionHeureMin.deps.json
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\bin\Debug\net6.0\Exo3_ConversionHeureMin.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\bin\Debug\net6.0\Exo3_ConversionHeureMin.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\bin\Debug\net6.0\Exo3_ConversionHeureMin.pdb
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\refint\Exo3_ConversionHeureMin.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.pdb
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\Exo3_ConversionHeureMin.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\Exo3_ConversionHeureMin\obj\Debug\net6.0\ref\Exo3_ConversionHeureMin.dll

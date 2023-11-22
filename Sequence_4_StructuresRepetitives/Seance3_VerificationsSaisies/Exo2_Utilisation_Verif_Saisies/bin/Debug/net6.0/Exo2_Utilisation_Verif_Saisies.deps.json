@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exo2_Utilisation_Verif_Saisies/1.0.0": {
+        "dependencies": {
+          "VerifSaisies": "1.0.0.0"
+        },
+        "runtime": {
+          "Exo2_Utilisation_Verif_Saisies.dll": {}
+        }
+      },
+      "VerifSaisies/1.0.0.0": {
+        "runtime": {
+          "VerifSaisies.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo2_Utilisation_Verif_Saisies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VerifSaisies/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

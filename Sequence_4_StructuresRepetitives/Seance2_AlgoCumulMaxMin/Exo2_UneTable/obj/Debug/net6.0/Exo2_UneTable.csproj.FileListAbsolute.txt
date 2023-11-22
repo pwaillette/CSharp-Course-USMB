@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\bin\Debug\net6.0\Exo2_UneTable.exe
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\bin\Debug\net6.0\Exo2_UneTable.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\bin\Debug\net6.0\Exo2_UneTable.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\bin\Debug\net6.0\Exo2_UneTable.dll
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\bin\Debug\net6.0\Exo2_UneTable.pdb
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.dll
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\refint\Exo2_UneTable.dll
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.pdb
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\Exo2_UneTable.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_4_StructuresRepetitives\Seance2_AlgoCumulMaxMin\Exo2_UneTable\obj\Debug\net6.0\ref\Exo2_UneTable.dll

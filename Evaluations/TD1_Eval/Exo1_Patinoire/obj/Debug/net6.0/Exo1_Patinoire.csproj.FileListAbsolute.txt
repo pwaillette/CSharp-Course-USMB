@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\bin\Debug\net6.0\Exo1_Patinoire.exe
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\bin\Debug\net6.0\Exo1_Patinoire.deps.json
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\bin\Debug\net6.0\Exo1_Patinoire.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\bin\Debug\net6.0\Exo1_Patinoire.dll
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\bin\Debug\net6.0\Exo1_Patinoire.pdb
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.dll
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\refint\Exo1_Patinoire.dll
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.pdb
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\Exo1_Patinoire.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo1_Patinoire\obj\Debug\net6.0\ref\Exo1_Patinoire.dll

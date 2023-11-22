@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Seance3_TableauxVille/1.0.0": {
+        "runtime": {
+          "Seance3_TableauxVille.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seance3_TableauxVille/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

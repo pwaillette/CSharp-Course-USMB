@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exo4_DateTime/1.0.0": {
+        "runtime": {
+          "Exo4_DateTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo4_DateTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

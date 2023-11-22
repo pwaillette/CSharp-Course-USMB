@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\bin\Debug\net6.0\Exo4_JeuDevinetteInversee.exe
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\bin\Debug\net6.0\Exo4_JeuDevinetteInversee.deps.json
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\bin\Debug\net6.0\Exo4_JeuDevinetteInversee.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\bin\Debug\net6.0\Exo4_JeuDevinetteInversee.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\bin\Debug\net6.0\Exo4_JeuDevinetteInversee.pdb
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\refint\Exo4_JeuDevinetteInversee.dll
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.pdb
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\Exo4_JeuDevinetteInversee.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance1-DecouverteBoucles\Exo4_JeuDevinetteInversee\obj\Debug\net6.0\ref\Exo4_JeuDevinetteInversee.dll

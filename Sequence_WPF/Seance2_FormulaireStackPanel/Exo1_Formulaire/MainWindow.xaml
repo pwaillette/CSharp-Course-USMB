@@ -1,0 +1,98 @@
+﻿<Window
+    x:Class="Exo1_Formulaire.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Exo1_Formulaire"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Formulaire"
+    Width="400"
+    Height="550"
+    MinWidth="400"
+    MinHeight="550"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+    <StackPanel Margin="60,20,60,20" HorizontalAlignment="Stretch">
+        <Label
+            x:Name="lbChampsObligatoires"
+            HorizontalAlignment="Right"
+            Content="Tous les champs sont obligatoires"
+            Foreground="#C0C0C0" />
+        <Label Content="_Nom" Target="{Binding ElementName=txNom}" />
+        <TextBox
+            x:Name="txNom"
+            AutomationProperties.IsRequiredForForm="True"
+            TextWrapping="Wrap" />
+        <Label Content="_Prénom" Target="{Binding ElementName=txPrenom}" />
+        <TextBox
+            x:Name="txPrenom"
+            HorizontalAlignment="Stretch"
+            AutomationProperties.IsRequiredForForm="True"
+            TextWrapping="Wrap" />
+        <Label
+            Name="lbSexe"
+            Content="Sexe"
+            Target="{Binding ElementName=spSexe}" />
+        <StackPanel
+            Name="spSexe"
+            HorizontalAlignment="Stretch"
+            AutomationProperties.IsRequiredForForm="True"
+            Orientation="Horizontal">
+            <RadioButton
+                x:Name="rbFemme"
+                Content="_Femme"
+                GroupName="sexe" />
+            <RadioButton
+                x:Name="rbHomme"
+                Margin="10,0,0,0"
+                Content="_Homme"
+                GroupName="sexe" />
+        </StackPanel>
+        <Label
+            Name="lbDateNaissance"
+            Content="_Date de naissance"
+            Target="{Binding ElementName=dpDate}" />
+        <DatePicker x:Name="dpDate" AutomationProperties.IsRequiredForForm="True" />
+        <Label Content="_Adresse" Target="{Binding ElementName=txAdresse}" />
+        <TextBox
+            x:Name="txAdresse"
+            AutomationProperties.IsRequiredForForm="True"
+            TextWrapping="Wrap" />
+        <Label Content="_Code postal" Target="{Binding ElementName=txCodePostal}" />
+        <TextBox
+            x:Name="txCodePostal"
+            AutomationProperties.IsRequiredForForm="True"
+            TextWrapping="Wrap" />
+        <Label Content="_Ville" Target="{Binding ElementName=txVille}" />
+        <TextBox
+            x:Name="txVille"
+            AutomationProperties.IsRequiredForForm="True"
+            TextWrapping="Wrap" />
+        <Label
+            Name="lbPays"
+            Content="_Pays"
+            Target="{Binding ElementName=cbPays}" />
+        <ComboBox Name="cbPays" AutomationProperties.IsRequiredForForm="True">
+            <ComboBoxItem Content="France" />
+            <ComboBoxItem Content="Espagne" />
+            <ComboBoxItem Content="Ailleurs" />
+        </ComboBox>
+        <CheckBox
+            x:Name="cbOffresComm"
+            Margin="0,10,0,0"
+            Content="_Recevoir nos offres commerciales" />
+        <CheckBox
+            x:Name="cbCGV"
+            Margin="0,10,0,0"
+            AutomationProperties.IsRequiredForForm="True"
+            Content="_J'accepte les CGV" />
+        <Button
+            x:Name="btnValider"
+            Width="120"
+            Margin="0,15,0,0"
+            Click="btnValider_Click"
+            Content="_Valider"
+            IsDefault="True" />
+
+    </StackPanel>
+</Window>

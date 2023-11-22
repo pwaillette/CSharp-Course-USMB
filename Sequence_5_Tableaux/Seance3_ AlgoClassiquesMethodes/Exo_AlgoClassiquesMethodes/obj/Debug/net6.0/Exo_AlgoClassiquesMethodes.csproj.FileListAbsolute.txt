@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\bin\Debug\net6.0\Exo_AlgoClassiquesMethodes.exe
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\bin\Debug\net6.0\Exo_AlgoClassiquesMethodes.deps.json
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\bin\Debug\net6.0\Exo_AlgoClassiquesMethodes.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\bin\Debug\net6.0\Exo_AlgoClassiquesMethodes.dll
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\bin\Debug\net6.0\Exo_AlgoClassiquesMethodes.pdb
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.dll
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\refint\Exo_AlgoClassiquesMethodes.dll
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.pdb
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\Exo_AlgoClassiquesMethodes.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance3_ AlgoClassiquesMethodes\Exo_AlgoClassiquesMethodes\obj\Debug\net6.0\ref\Exo_AlgoClassiquesMethodes.dll

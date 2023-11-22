@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exo_CourseAPied/1.0.0": {
+        "runtime": {
+          "Exo_CourseAPied.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exo_CourseAPied/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

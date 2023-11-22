@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\bin\Debug\net6.0\Exo2_Piscine.exe
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\bin\Debug\net6.0\Exo2_Piscine.deps.json
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\bin\Debug\net6.0\Exo2_Piscine.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\bin\Debug\net6.0\Exo2_Piscine.dll
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\bin\Debug\net6.0\Exo2_Piscine.pdb
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.dll
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\refint\Exo2_Piscine.dll
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.pdb
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\Exo2_Piscine.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Evaluations\TD1_Eval\Exo2_Piscine\obj\Debug\net6.0\ref\Exo2_Piscine.dll

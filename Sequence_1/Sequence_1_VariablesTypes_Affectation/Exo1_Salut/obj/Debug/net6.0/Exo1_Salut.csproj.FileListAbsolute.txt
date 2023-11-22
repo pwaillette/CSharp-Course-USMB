@@ -1,0 +1,15 @@
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\bin\Debug\net6.0\Exo1_Salut.exe
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\bin\Debug\net6.0\Exo1_Salut.deps.json
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\bin\Debug\net6.0\Exo1_Salut.runtimeconfig.json
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\bin\Debug\net6.0\Exo1_Salut.dll
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\bin\Debug\net6.0\Exo1_Salut.pdb
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.csproj.AssemblyReference.cache
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.GeneratedMSBuildEditorConfig.editorconfig
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.AssemblyInfoInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.AssemblyInfo.cs
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.csproj.CoreCompileInputs.cache
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.dll
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\refint\Exo1_Salut.dll
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.pdb
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\Exo1_Salut.genruntimeconfig.cache
+P:\R1_01_InitiationDev_C#\Sequence_1_VariablesTypes_Affectation\Exo1_Salut\obj\Debug\net6.0\ref\Exo1_Salut.dll

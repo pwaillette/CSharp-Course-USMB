@@ -1,0 +1,15 @@
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\bin\Debug\net6.0\Exo1.exe
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\bin\Debug\net6.0\Exo1.deps.json
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\bin\Debug\net6.0\Exo1.runtimeconfig.json
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\bin\Debug\net6.0\Exo1.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\bin\Debug\net6.0\Exo1.pdb
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.csproj.AssemblyReference.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.AssemblyInfoInputs.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.AssemblyInfo.cs
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.csproj.CoreCompileInputs.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\refint\Exo1.dll
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.pdb
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\Exo1.genruntimeconfig.cache
+C:\Users\gerarde\source\repos\Seance4_PassageParReference\TP3-MethodesPassageParReference\TP3\Exo1\obj\Debug\net6.0\ref\Exo1.dll
