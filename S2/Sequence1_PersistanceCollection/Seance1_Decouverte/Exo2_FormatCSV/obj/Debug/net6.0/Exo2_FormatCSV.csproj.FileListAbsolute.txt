@@ -1,0 +1,16 @@
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\bin\Debug\net6.0\Exo2_FormatCSV.exe
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\bin\Debug\net6.0\Exo2_FormatCSV.deps.json
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\bin\Debug\net6.0\Exo2_FormatCSV.runtimeconfig.json
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\bin\Debug\net6.0\Exo2_FormatCSV.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\bin\Debug\net6.0\Exo2_FormatCSV.pdb
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.csproj.AssemblyReference.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.GeneratedMSBuildEditorConfig.editorconfig
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.AssemblyInfoInputs.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.AssemblyInfo.cs
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.csproj.CoreCompileInputs.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\refint\Exo2_FormatCSV.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.pdb
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\Exo2_FormatCSV.genruntimeconfig.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\obj\Debug\net6.0\ref\Exo2_FormatCSV.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo2_FormatCSV\bin\Debug\net6.0\Data\Scores.csv

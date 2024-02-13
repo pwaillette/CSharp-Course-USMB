@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <nbPoints>800</nbPoints>
+    <prenom>Charly</prenom>
+    <NbPoints>800</NbPoints>
+    <Prenom>Charly</Prenom>
+  </Score>
+  <Score>
+    <nbPoints>300</nbPoints>
+    <prenom>Marc</prenom>
+    <NbPoints>300</NbPoints>
+    <Prenom>Marc</Prenom>
+  </Score>
+  <Score>
+    <nbPoints>280</nbPoints>
+    <prenom>Lucie</prenom>
+    <NbPoints>280</NbPoints>
+    <Prenom>Lucie</Prenom>
+  </Score>
+</ArrayOfScore>

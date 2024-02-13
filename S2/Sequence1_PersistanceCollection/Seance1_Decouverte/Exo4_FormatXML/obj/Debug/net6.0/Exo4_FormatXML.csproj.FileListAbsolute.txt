@@ -1,0 +1,16 @@
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\bin\Debug\net6.0\Data\Scores.XML
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\bin\Debug\net6.0\Exo4_FormatXML.exe
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\bin\Debug\net6.0\Exo4_FormatXML.deps.json
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\bin\Debug\net6.0\Exo4_FormatXML.runtimeconfig.json
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\bin\Debug\net6.0\Exo4_FormatXML.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\bin\Debug\net6.0\Exo4_FormatXML.pdb
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.csproj.AssemblyReference.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.GeneratedMSBuildEditorConfig.editorconfig
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.AssemblyInfoInputs.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.AssemblyInfo.cs
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.csproj.CoreCompileInputs.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\refint\Exo4_FormatXML.dll
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.pdb
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\Exo4_FormatXML.genruntimeconfig.cache
+P:\S2\R2.01_2_POO_C#\R2.01_Approfondissement_C#\Sequence1_PersistanceCollection\Seance1_Decouverte\Exo4_FormatXML\obj\Debug\net6.0\ref\Exo4_FormatXML.dll
