@@ -1,0 +1,15 @@
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\bin\Debug\net6.0\GestionCompteAvecOperations.exe
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\bin\Debug\net6.0\GestionCompteAvecOperations.deps.json
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\bin\Debug\net6.0\GestionCompteAvecOperations.runtimeconfig.json
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\bin\Debug\net6.0\GestionCompteAvecOperations.dll
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\bin\Debug\net6.0\GestionCompteAvecOperations.pdb
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.csproj.AssemblyReference.cache
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.GeneratedMSBuildEditorConfig.editorconfig
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.AssemblyInfoInputs.cache
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.AssemblyInfo.cs
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.csproj.CoreCompileInputs.cache
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.dll
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\refint\GestionCompteAvecOperations.dll
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.pdb
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\GestionCompteAvecOperations.genruntimeconfig.cache
+P:\CSharp-Course-USMB\S2\GestionCompte\GestionCompteAvecOperations\obj\Debug\net6.0\ref\GestionCompteAvecOperations.dll
