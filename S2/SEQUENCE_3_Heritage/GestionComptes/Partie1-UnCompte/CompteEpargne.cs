@@ -5,6 +5,18 @@ public class CompteEpargne : CompteBloque
     private decimal seuilMax;
     private decimal txEpargne;
 
+    public CompteEpargne() : base()
+    {
+        SeuilMax = 0;
+        TxEpargne = 0;
+    }
+    
+    public CompteEpargne(string nom, string numero, decimal solde) : base(nom, numero, solde)
+    {
+        SeuilMax = 0;
+        TxEpargne = 0;
+    }
+    
     public decimal SeuilMax
     {
         get => seuilMax;

@@ -16,20 +16,17 @@ class Program
         Console.Write("Votre choix : ");
         int typeCompte = SaisieInt(1, 3);
 
-        Compte compte = null;  // Compte is a placeholder for your base class or interface
+        Compte compte;
         switch (typeCompte)
         {
             case 1:
-                // Ici, instanciez votre Compte standard avec les informations nécessaires
-                // compte = new Compte("Nom", "Numéro", SoldeInitial);
+                compte = new Compte("José", "7495547849", 142);
                 break;
             case 2:
-                // Ici, remplacez par un objet de classe CompteEpargne
                 compte = new CompteEpargne("José", "7495547849", 142);
                 break;
-            case 3:
-                // Ici, remplacez par un objet de classe CompteBloque
-                // compte = new CompteBloque("Nom", "Numéro", SoldeInitial);
+            default:
+                compte = new CompteBloque("José", "7495547849", 142);
                 break;
         }
 
@@ -44,41 +41,43 @@ class Program
             if (compte is CompteEpargne)
             {
                 Console.WriteLine("5. Calculer les intérêts");
-                // Ajouter ici d'autres options spécifiques au Compte Épargne
             }
-            // Si votre Compte Bloqué a des options spécifiques, ajoutez-les ici de manière similaire.
-            
+            else if (compte is CompteBloque)
+            {
+                Console.WriteLine("5. Consulter le seuil minimal");
+            }
 
-            choix = SaisieInt(0, 5); // Assurez-vous de modifier le deuxième paramètre en fonction des options disponibles
+            choix = SaisieInt(0, 5); 
             switch (choix)
             {
                 case 0:
                     Console.WriteLine("Au revoir.");
                     break;
                 case 1:
-                    // Code pour créditer
-                    
+                    compte.Crediter(SaisieDoublePositif());
                     break;
                 case 2:
-                    // Code pour débiter
+                    compte.Debiter(SaisieDoublePositif());
                     break;
                 case 3:
-                    // Code pour consulter le solde
+                    Console.WriteLine(compte.Solde);
                     break;
                 case 4:
-                    // Code pour consulter les opérations
+                    compte.ConsulterOpérations();
                     break;
                 case 5:
                     if (compte is CompteEpargne epargne)
                     {
-                        // Supposons que vous avez une méthode pour calculer les intérêts
-                        // double interets = epargne.CalculInteret(...);
-                        // Console.WriteLine($"Intérêts calculés: {interets}");
-                    } else {
+                        int nbAnnee = SaisieInt(1, 100);
+                        Console.WriteLine($"Intérêts calculés: {epargne.CalculInteret(nbAnnee)}");
+                    } else if (compte is CompteBloque bloque)
+                    {
+                        Console.WriteLine($"Seuil minimal: {bloque.SeuilMin}");
+                    }
+                    else {
                         Console.WriteLine("Option invalide.");
                     }
                     break;
-                // Ajoutez d'autres cases ici pour d'autres fonctionnalités spécifiques
                 default:
                     Console.WriteLine("Entrée incorrecte.");
                     break;
